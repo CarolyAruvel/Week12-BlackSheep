@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\bin\Debug\netcoreapp3.1\Seasons.exe
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\bin\Debug\netcoreapp3.1\Seasons.deps.json
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\bin\Debug\netcoreapp3.1\Seasons.runtimeconfig.json
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\bin\Debug\netcoreapp3.1\Seasons.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\bin\Debug\netcoreapp3.1\Seasons.dll
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\bin\Debug\netcoreapp3.1\Seasons.pdb
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\obj\Debug\netcoreapp3.1\Seasons.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\obj\Debug\netcoreapp3.1\Seasons.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\obj\Debug\netcoreapp3.1\Seasons.AssemblyInfo.cs
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\obj\Debug\netcoreapp3.1\Seasons.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\obj\Debug\netcoreapp3.1\Seasons.dll
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\obj\Debug\netcoreapp3.1\Seasons.pdb
+C:\Users\opilane\source\repos\logitpe21\BlackSheep\Seasons\obj\Debug\netcoreapp3.1\Seasons.genruntimeconfig.cache
